@@ -3,16 +3,15 @@ def day1():
     part1, part2 = 0, 0
 
     with open("input_2021/day01.txt", "r") as f:
-        data = f.readlines()
-
-    previous_measurement = 0
+        data = [int(line.strip()) for line in f]
 
     for index in range(len(data)):
-        line = int(data[index])
-        if 0 < previous_measurement < line:
+        if index >= 1 and data[index] > data[index - 1]:
             part1 += 1
-        previous_measurement = line
-    
+        if index >= 3 and data[index] + data[index - 1] + data[index - 2] > data[index - 1] + data[index - 2] + data[index - 3]:
+            part2 += 1
+
+    return part1, part2
     return part1, part2
 
 # ================================== ADVENT OF CODE TABLE ==================================
