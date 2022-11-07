@@ -5,10 +5,10 @@ def day_01():
     with open("input_2021/day_01.txt", "r") as f:
         data = [int(line.strip()) for line in f]
 
-    for index in range(len(data)):
-        if index >= 1 and data[index] > data[index - 1]:
+    for i in range(len(data)):
+        if i >= 1 and data[i] > data[i-1]:
             part1 += 1
-        if index >= 3 and data[index] + data[index - 1] + data[index - 2] > data[index - 1] + data[index - 2] + data[index - 3]:
+        if i >= 3 and data[i] + data[i-1] + data[i-2] > data[i-1] + data[i-2] + data[i-3]:
             part2 += 1
 
     return f"║ DAY 01 ║ {part1:>15} ║ {part2:>15} ║"
