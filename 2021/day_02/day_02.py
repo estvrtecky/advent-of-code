@@ -1,7 +1,7 @@
 part1, part2 = 0, 0
 
 with open('day_02_input.txt', 'r') as f:
-    data = [str(line.strip()) for line in f]
+    data = [line.strip() for line in f]
 
 horizontal_position, depth_1, depth_2, aim = 0, 0, 0, 0
 for command in data:

@@ -1,7 +1,7 @@
 part1, part2 = 0, 0
 
 with open('day_03_input.txt', 'r') as f:
-    data = [str(line.strip()) for line in f]
+    data = [line.strip() for line in f]
 
 gamma, epsilon = '', ''
 
