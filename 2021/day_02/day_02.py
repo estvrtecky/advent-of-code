@@ -16,5 +16,8 @@ for command in data:
         depth_1 += units
         aim += units
 
-print('PART 1:', horizontal_position * depth_1)
-print('PART 2:', horizontal_position * depth_2)
+part1 = horizontal_position * depth_1
+part2 = horizontal_position * depth_2
+
+print('PART 1:', part1)
+print('PART 2:', part2)
