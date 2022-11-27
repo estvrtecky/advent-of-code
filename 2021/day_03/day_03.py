@@ -47,5 +47,8 @@ for bit in range(len(co2_data[0])):
             _.append(binary)
     co2_data = _
 
-print('PART 1:', int(gamma, 2) * int(epsilon, 2))
-print('PART 2:', int(oxygen_rating, 2) * int(co2_rating, 2))
+part1 = int(gamma, 2) * int(epsilon, 2)
+part2 = int(oxygen_rating, 2) * int(co2_rating, 2)
+
+print('PART 1:', part1)
+print('PART 2:', part2)
