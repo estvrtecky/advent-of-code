@@ -1,6 +1,6 @@
 part1, part2 = 0, 0
 
-with open('day_04_input.txt', 'r') as f:
+with open('day04.txt', 'r') as f:
     nums, *boards = f.read().split('\n\n')
     nums = nums.split(',')
     boards = [[[num for num in row.split()] for row in board.split('\n')] for board in boards]
@@ -39,7 +39,6 @@ for num in nums:
                     first = False
                 boards.pop(i)
         else:
-            print(board)
             part2 = score(num, board)
             stop = True
     if stop: break
