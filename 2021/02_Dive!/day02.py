@@ -1,11 +1,11 @@
 part1, part2 = 0, 0
 
-with open('day_02_input.txt', 'r') as f:
-    data = [line.strip() for line in f]
+with open('day02.txt', 'r') as f:
+    data = [line.strip().split(' ') for line in f]
 
 horizontal_position, depth_1, depth_2, aim = 0, 0, 0, 0
 for command in data:
-    direction, units = command.split(' ')[0], int(command.split(' ')[1])
+    direction, units = command[0], int(command[1])
     if direction == 'forward':
         horizontal_position += units
         depth_2 += aim * units
