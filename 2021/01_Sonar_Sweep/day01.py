@@ -1,6 +1,6 @@
 part1, part2 = 0, 0
 
-with open('day_01_input.txt', 'r') as f:
+with open('day01.txt', 'r') as f:
     data = [int(line) for line in f]
 
 for i in range(len(data)):
