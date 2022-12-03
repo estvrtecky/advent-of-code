@@ -1,6 +1,6 @@
 part1, part2 = 0, 0
 
-with open('day_04_input.txt', 'r') as f:
+with open('day04.txt', 'r') as f:
     data = [passport.replace('\n', ' ').split(' ') for passport in f.read().split('\n\n')]
 
 def required_fields(passport):
