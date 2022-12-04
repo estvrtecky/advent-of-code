@@ -15,7 +15,7 @@ advent-of-code
 | :unlock: [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | :star::star: | [Day 01](2022/01_Calorie_Counting/day01.py) :key: |
 | :unlock: [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2) | :star::star: | [Day 02](2022/02_Rock_Paper_Scissors/day02.py) :key: |
 | :unlock: [Day 3: Rucksack Reorganizationg](https://adventofcode.com/2022/day/3) | :star::star: | [Day 03](2022/03_Rucksack_Reorganization/day03.py) :key: |
-| :closed_lock_with_key: [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4) | :star::star: | [Day 04](2022/04_Camp_Cleanup/day04.py) :key: |
+| :unlock: [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4) | :star::star: | [Day 04](2022/04_Camp_Cleanup/day04.py) :key: |
 | :lock: [Day 5: ???](https://adventofcode.com/2022/day/5) | :x::x: | None :mag: |
 | :lock: [Day 6: ???](https://adventofcode.com/2022/day/6) | :x::x: | None :mag: |
 | :lock: [Day 7: ???](https://adventofcode.com/2022/day/7) | :x::x: | None :mag: |
