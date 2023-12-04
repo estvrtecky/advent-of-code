@@ -1,9 +1,9 @@
 # Advent of Code 2022
 
-### Progress 0/50 :star:
+### Progress: 2/50 :star:
 | Day | Status | Solution |
 | :--- | :---: | :--- |
-| :lock: [Day 1: ???](https://adventofcode.com/2022/day/1) | :x::x: | None :mag: |
+| :unlock: [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | :star::star: | [![Python](https://skillicons.dev/icons?i=python)](01/solution.py) |
 | :lock: [Day 2: ???](https://adventofcode.com/2022/day/2) | :x::x: | None :mag: |
 | :lock: [Day 3: ???](https://adventofcode.com/2022/day/3) | :x::x: | None :mag: |
 | :lock: [Day 4: ???](https://adventofcode.com/2022/day/4) | :x::x: | None :mag: |
