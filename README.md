@@ -5,7 +5,7 @@
 ```bash
 advent-of-code
 ┗━ 20XX
-    ┣━ dayXX
-    ┃  ┗━ solution.{file_extension} # Solution in various programming languages
-    ┗━ 20XX.md # List of solutions for the year
+   ┣━ dayXX
+   ┃  ┗━ solution.{file_extension} # Solution in various programming languages
+   ┗━ 20XX.md # List of solutions for the year
 ```
