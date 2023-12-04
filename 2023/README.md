@@ -1,10 +1,9 @@
-# Advent of Code 2022
+# Advent of Code 2023
 
-### Progress 8/50 :star:
-
+### Progress 4/50 :star:
 | Day | Status | Solution |
 | :--- | :---: | :---: |
-| :closed_lock_with_key: [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | :star::star: | None :mag: |
+| :unlock: [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | :star::star: | [![Python](https://skillicons.dev/icons?i=python)](day01/solution.py) |
 | :closed_lock_with_key: [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) | :star::star: | None :mag: |
 | :lock: [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3) | :x::x: | None :mag: |
 | :lock: [Day 4: ???](https://adventofcode.com/2023/day/4) | :x::x: | None :mag: |
