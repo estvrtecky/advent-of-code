@@ -1,7 +1,6 @@
-part1 = 0
-part2 = 0
+part1, part2 = 0, 0
 
-with open("2023/day01/input.txt", "r") as f:
+with open("input.txt", "r") as f:
     data = [line.strip() for line in f.readlines()]
 
 for line in data:
@@ -16,5 +15,5 @@ for line in data:
     part1 += int(digits1[0] + digits1[-1])
     part2 += int(digits2[0] + digits2[-1])
 
-print(f"Part 1: {part1}")
-print(f"Part 2: {part2}")
+print("Part 1:", part1)
+print("Part 2:", part2)
