@@ -1,10 +1,10 @@
 # Advent of Code 2022
 
-### Progress: 2/50 :star:
+### Progress: 4/50 :star:
 | Day | Status | Solution |
 | :--- | :---: | :--- |
 | :unlock: [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1) | :star::star: | [![Python](https://skillicons.dev/icons?i=python)](01/solution.py) |
-| :lock: [Day 2: ???](https://adventofcode.com/2022/day/2) | :x::x: | None :mag: |
+| :unlock: [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2) | :star::star: | [![Python](https://skillicons.dev/icons?i=python)](02/solution.py) |
 | :lock: [Day 3: ???](https://adventofcode.com/2022/day/3) | :x::x: | None :mag: |
 | :lock: [Day 4: ???](https://adventofcode.com/2022/day/4) | :x::x: | None :mag: |
 | :lock: [Day 5: ???](https://adventofcode.com/2022/day/5) | :x::x: | None :mag: |
