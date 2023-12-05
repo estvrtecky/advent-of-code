@@ -4,9 +4,9 @@
 | Day | Status | Solution |
 | :--- | :---: | :--- |
 | :unlock: [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | :star::star: | [![Python](https://skillicons.dev/icons?i=python)](01/solution.py) |
-| :closed_lock_with_key: [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) | :star::star: | [![Python](https://skillicons.dev/icons?i=python)](02/solution.py) |
-| :lock: [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3) | :x::x: | None :mag: |
-| :lock: [Day 4: ???](https://adventofcode.com/2023/day/4) | :x::x: | None :mag: |
+| :unlock: [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) | :star::star: | [![Python](https://skillicons.dev/icons?i=python)](02/solution.py) |
+| :unlock: [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3) | :star::x: | [![Python](https://skillicons.dev/icons?i=python)](03/solution.py) |
+| :lock: [Day 4: Scratchcards](https://adventofcode.com/2023/day/4) | :x::x: | None :mag: |
 | :lock: [Day 5: ???](https://adventofcode.com/2023/day/5) | :x::x: | None :mag: |
 | :lock: [Day 6: ???](https://adventofcode.com/2023/day/6) | :x::x: | None :mag: |
 | :lock: [Day 7: ???](https://adventofcode.com/2023/day/7) | :x::x: | None :mag: |
