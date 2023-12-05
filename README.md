@@ -1,7 +1,7 @@
-# **ADVENT OF CODE**
+# :christmas_tree: **ADVENT OF CODE** :christmas_tree:
 **[Advent of Code](https://adventofcode.com/)** is an annual Advent calendar of programming puzzles. Here are my solutions in various programming languages.
 
-### Progress
+### :chart_with_upwards_trend: Progress
 | Year | Stars |
 |:----:|:-----:|
 | [2015](2015) | 0/50 :star: |
@@ -18,7 +18,7 @@
 ```bash
 advent-of-code
 ┗━ 20XX
-   ┣━ dayXX
+   ┣━ XX # Day
    ┃  ┗━ solution.{file_extension} # Solution in various programming languages
-   ┗━ 20XX.md # List of solutions for the year
+   ┗━ README.md # List of solutions for the specific year
 ```
