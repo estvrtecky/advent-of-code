@@ -1,11 +1,11 @@
 # :christmas_tree: Advent of Code 2015 :christmas_tree:
 
-### Progress: 4/50 :star:
+### Progress: 5/50 :star:
 | Day | Status | Solution |
 | :--- | :---: | :--- |
 | :unlock: [Day 1: Not Quite Lisp](https://adventofcode.com/2015/day/1) | :star::star: | [![Python](https://skillicons.dev/icons?i=python)](01/solution.py) |
 | :unlock: [Day 2: I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2) | :star::star: | [![Python](https://skillicons.dev/icons?i=python)](02/solution.py) |
-| :lock: [Day 3: ???](https://adventofcode.com/2015/day/3) | :x::x: | None :mag: |
+| :closed_lock_with_key: [Day 3: Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3) | :star::x: | [![Python](https://skillicons.dev/icons?i=python)](03/solution.py) |
 | :lock: [Day 4: ???](https://adventofcode.com/2015/day/4) | :x::x: | None :mag: |
 | :lock: [Day 5: ???](https://adventofcode.com/2015/day/5) | :x::x: | None :mag: |
 | :lock: [Day 6: ???](https://adventofcode.com/2015/day/6) | :x::x: | None :mag: |
