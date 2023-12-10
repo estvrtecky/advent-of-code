@@ -1,6 +1,6 @@
 # Advent of Code 2020
 
-### Progress 0/50 :star:
+### Progress: 0/50 :star:
 | Day | Status | Solution |
 | :--- | :---: | :--- |
 | :lock: [Day 1: ???](https://adventofcode.com/2020/day/1) | :x::x: | None :mag: |
