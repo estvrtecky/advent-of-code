@@ -1,13 +1,14 @@
-part1, part2 = 0, 0
-
 with open("input.txt", "r") as f:
-    data = [line.strip().split(" ") for line in f]
+    data = [line.strip().split(" ") for line in f.readlines()]
 
-horizontal_position, depth_1, depth_2, aim = 0, 0, 0, 0
+horizontal_pos = 0
+depth_1, depth_2 = 0, 0
+aim = 0
+
 for command in data:
     direction, units = command[0], int(command[1])
     if direction == "forward":
-        horizontal_position += units
+        horizontal_pos += units
         depth_2 += aim * units
     elif direction == "up":
         depth_1 -= units
@@ -16,8 +17,8 @@ for command in data:
         depth_1 += units
         aim += units
 
-part1 = horizontal_position * depth_1
-part2 = horizontal_position * depth_2
+part1 = horizontal_pos * depth_1
+part2 = horizontal_pos * depth_2
 
-print("PART 1:", part1)
-print("PART 2:", part2)
+print("Part 1:", part1)
+print("Part 2:", part2)
